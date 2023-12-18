@@ -1,0 +1,9 @@
+# Ignore virtual environment folder
+COVID/
+
+# Ignore Python bytecode
+*.pyc
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
