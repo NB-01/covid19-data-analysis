@@ -2,10 +2,8 @@
 
 ## Project Overview
 
-This project aims to provide an in-depth analysis and visualization of COVID-19 data. Using Python, the project explores various aspects of the pandemic, including case numbers, mortality rates, and vaccination progress across different regions.
-Features
+This project aims to provide an in-depth analysis and visualization of COVID-19 data. Using Python, the project explores various aspects of the pandemic, including excess mortality, case numbers, mortality rates, and vaccination progress across different regions.
 
-- Data Collection: Automated scripts to gather the latest COVID-19 data from reliable sources.
 - Data Processing: Cleaning and structuring data for analysis.
 - Data Analysis: Statistical analysis to uncover trends and patterns.
 - Visualization: Interactive charts and graphs to represent data findings clearly.
